@@ -1,0 +1,26 @@
+[   
+    {     
+        "slug": "ページURL",      
+        "title": "作品のタイトル",     
+        "year": "制作年",     
+        "description": "作品の1行解説",     
+        "text": "作品の詳しめ解説",     
+        "role": "自分の担当",     
+        "urlTitle": "参照URLに対してのタイトル",    
+        "url": "参照URL",     
+        "picture" : [       
+            {         
+            "id": "1",         
+            "path": "https://sn3302files.storage.live.com/y4pkJIDrpzbjPyUkqInl5_6uuN4RzgMh8Qw7Dj8fld_uLPIpAo_5uV1nFW_jgmgulCMegMt8Bah9zcfgbdqyvuZs69yj8BT1lnyC82EhXNmlQSl1IlVNT8YMUVB2YXQORlYQyMGQp7MZ2XXvnBH0i_AUk1EseAtoO6txt-lV-WmLASbDZp32ehrdmAiUgsXxYeB/20190106_143757000_iOS.jpg?psid=1&width=373&height=250"       
+            },       
+            {         
+            "id": "2",         
+            "path": "https://sn3302files.storage.live.com/y4pkJIDrpzbjPyUkqInl5_6uuN4RzgMh8Qw7Dj8fld_uLPIpAo_5uV1nFW_jgmgulCMegMt8Bah9zcfgbdqyvuZs69yj8BT1lnyC82EhXNmlQSl1IlVNT8YMUVB2YXQORlYQyMGQp7MZ2XXvnBH0i_AUk1EseAtoO6txt-lV-WmLASbDZp32ehrdmAiUgsXxYeB/20190106_143757000_iOS.jpg?psid=1&width=373&height=250"       
+            },
+            { 
+            "id": "3",         
+            "path": "https://sn3302files.storage.live.com/y4pkJIDrpzbjPyUkqInl5_6uuN4RzgMh8Qw7Dj8fld_uLPIpAo_5uV1nFW_jgmgulCMegMt8Bah9zcfgbdqyvuZs69yj8BT1lnyC82EhXNmlQSl1IlVNT8YMUVB2YXQORlYQyMGQp7MZ2XXvnBH0i_AUk1EseAtoO6txt-lV-WmLASbDZp32ehrdmAiUgsXxYeB/20190106_143757000_iOS.jpg?psid=1&width=373&height=250"       
+            }
+        ]
+    }
+]
