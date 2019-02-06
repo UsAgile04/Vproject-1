@@ -1,13 +1,9 @@
 <template>
   <div id="app">
 <header>
-  <h1 class="site-title">
-    <router-link to="/">YANO's portfolio</router-link>
-  </h1>
+
+  <hnav></hnav><!-- グローバルナビ -->
 </header>
-<hnav></hnav><!-- グローバルナビ -->
-
-
     <router-view/>
   </div>
 </template>
@@ -25,11 +21,10 @@ export default {
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
+font-family: 'Sawarabi Gothic', sans-serif;  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 20px;
 }
 </style>

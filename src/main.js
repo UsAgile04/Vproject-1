@@ -3,8 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 
-// import titleMixin from './util/title'
-// import descriptionMixin from './util/description'
+// import title Mixin from './util/title'
+// import description Mixin from './util/description'
 
 import router from './router'
 // import './assets/style/style.scss'

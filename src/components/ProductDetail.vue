@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper">productのページです。</div>
+  <div class="wrapper">削除予定</div>
 </template> 
  
 <script>

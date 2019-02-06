@@ -1,19 +1,20 @@
-[   
-    {     
-        "slug": "ページURL",      
-        "title": "作品のタイトル",     
-        "year": "制作年",     
-        "description": "作品の1行解説",     
-        "text": "作品の詳しめ解説",     
-        "role": "自分の担当",     
-        "urlTitle": "参照URLに対してのタイトル",    
-        "url": "参照URL",     
-        "picture" : [       
-            {         
-            "id": "1",         
-            "path": "https://sn3302files.storage.live.com/y4pkJIDrpzbjPyUkqInl5_6uuN4RzgMh8Qw7Dj8fld_uLPIpAo_5uV1nFW_jgmgulCMegMt8Bah9zcfgbdqyvuZs69yj8BT1lnyC82EhXNmlQSl1IlVNT8YMUVB2YXQORlYQyMGQp7MZ2XXvnBH0i_AUk1EseAtoO6txt-lV-WmLASbDZp32ehrdmAiUgsXxYeB/20190106_143757000_iOS.jpg?psid=1&width=373&height=250"       
-            },       
-            {         
+[
+    {
+        "slug": "ana",
+        "title": "あな持ち ｜ あなたの持ち物写真展",
+        "year": "2018年末〜現在",
+        "description": "「自分の愛用品」のためのWEB個展を開けるサイト",
+        "text": "授業外で（気合を入れて）制作したWebサイト第１号。写真が趣味で、いつか自分の個展を持ちたいなぁと思って制作に至りました。スライドショーやタイルレイアウト、フィルタリング、SNS共有機能などを実装しました。現在は、PHPを利用した会員認証機能を実装するため引き続き製作中です。",
+        "role": "HTML5, CSS, javascript, jQuery, PHP, vue.js(予定)",
+        "urlTitle": "あな持ち｜あなたの持ち物写真展",
+        "url": "https://myportfoliowebsite-31c0d.firebaseapp.com/",
+        "picture" : 
+        [
+            {
+            "id": "1",
+            "path": "https://drive.google.com/open?id=1sWVcKQEeZyDiAmUvsc5iaLdqwbo_YZ6i"
+            },
+            {
             "id": "2",         
             "path": "https://sn3302files.storage.live.com/y4pkJIDrpzbjPyUkqInl5_6uuN4RzgMh8Qw7Dj8fld_uLPIpAo_5uV1nFW_jgmgulCMegMt8Bah9zcfgbdqyvuZs69yj8BT1lnyC82EhXNmlQSl1IlVNT8YMUVB2YXQORlYQyMGQp7MZ2XXvnBH0i_AUk1EseAtoO6txt-lV-WmLASbDZp32ehrdmAiUgsXxYeB/20190106_143757000_iOS.jpg?psid=1&width=373&height=250"       
             },

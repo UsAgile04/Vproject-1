@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper">Aboutのページです。</div>
+  <div class="wrapper">About</div>
 </template> 
  
 <script>

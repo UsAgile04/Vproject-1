@@ -4,7 +4,7 @@ import Top from '@/components/Top'
 
 import LayoutWorks from '@/components/layouts/Works' // 作品ページの親テンプレートとして追加
 import WorksTop from '@/components/WorksTop'
-import WorksDetail from '@/components/ProductDetail'
+import WorksDetail from '@/components/WorksDetail'
 import Contact from '@/components/Contact'
 import About from '@/components/About'
 
